@@ -1,0 +1,131 @@
+quote,ep,title,time,theme
+"Whether or not it's there will completely change how heavy a hit feels, so it's a pretty important effect.",3,Stop for Big Moments!,00:48,hit stop
+I gave him the ability to fly because I thought it was too harsh to lose a life just for missing a jump.,4,Kirby's Dream Land,01:48,audience and risk
+"As you increase ""game essence,"" you reduce a game's broad appeal.",6,Risk and Reward,09:22,essence vs. broad appeal
+Take risks to get rewards. This push and pull is the very core of game essence.,6,Risk and Reward,02:14,definition of game essence
+"Risk and reward must be in close proximity, and in the right amounts.",6,Risk and Reward,08:05,proximity of risk and reward
+"The job of a game developer is to create games, but the work itself is not a game.",7,Game Development Isn't a Game,00:31,professionalism
+"If you feel like you've lost your way, just remember: entertain players.",7,Game Development Isn't a Game,03:39,purpose
+many people don't recognize lag when they see it.,8,Down with Lag!,01:19,input lag
+"Stress on its own isn't fun, but if you really squeeze a player, then whoosh! set them free, it can bring great satisfaction.",9,Squeeze and Release,00:18,stress and release
+"Don't draw the asset, draw the light it reflects.",10,"Draw the Light, Not the Asset",00:47,lighting
+Players who aren't used to complex game mechanics can finish the game just by inhaling enemies and spitting them out.,11,Kirby's Adventure,02:02,layered depth
+Don't let additive blending do all the work for you!,16,"Make It ""Pop""",00:48,effect contrast
+Save the high-end CG movies and openings for later.,17,Just Let Them Play!,00:32,trailers
+A game that starts slow is often a game that's starting on the wrong foot.,17,Just Let Them Play!,00:46,openings
+"A game's UI is like a drawer. When you pull it open, you want things to be organized in a sensible way.",18,Clarity vs. Style,01:06,menu organization
+"Even with the same button presses, the response you see on-screen can make them feel so very different.",19,"Giving ""Weight"" to Buttons",00:47,weight
+"Instead of letting both characters scroll the screen with equal weight, I placed the focus on only the lead character.",20,Kirby Super Star,02:30,structural solutions
+Players aren't concerned about why developers do what they do. They only care if a game is good or not.,21,Try Telling That to the Player,00:53,player first
+Remember: it's not just you who needs to understand your game.,22,Name Files Logically,04:29,file naming
+"Even among similar fighting games, the right tempo will vary depending on the speed of the action.",25,Make the Tempo Match the Game,01:26,tempo
+Game essence isn't the only thing that makes a game fun,26,Fun Beyond Game Essence,06:17,other sources of fun
+"Instead of inputs alone determining the outcome, I wondered if we could make a game with more room for interplay and improvisation.",27,Super Smash Bros.,03:51,concept as a solution
+"If you're animating an attack, the best way to think of it is that ""too much is just right.""",28,Too Much is Just Right,00:38,exaggeration
+Animation that pushes your rig's weighting to the breaking point is good animation.,28,Too Much is Just Right,00:18,exaggeration
+What you really want to avoid is having to change course because your game's not fun.,29,Spec Changes,01:10,specs
+Make the objects with collision stand out— and give the backdrop less emphasis.,30,Emphasize Objects with Collision,01:18,readability
+"The more relevant a sound is to the player, the louder that sound should be.",32,Strike a Balance with Sound Effects,00:36,mixing by relevance
+"By instantly jumping to a big pose, the player can immediately know their input was recognized.",36,Breaking Down Attack Animations,00:56,lead-in snap
+"Even with the same trajectory, adjusting a move's speed can drastically change how it feels.",37,Jump Physics,02:44,jump physics
+"As long as you move through a dense presentation quickly, page count itself isn't really an issue.",38,Writing Game Proposals,01:23,proposals
+"You could say the code is the bones, and the parameters are the muscles.",46,Making Your Game Easy to Tune,01:14,parameters
+"As a general rule, hit stop in Smash Bros. is never just a stop— there's always a bit of ""shake,"" too.",47,Eight Hit Stop Techniques,00:44,hit stop shake
+"There's no way to completely eliminate lag from network or TV problems, but we can let players know right away that their input was received.",49,Making Lead-ins Instant and Impactful,01:01,input acknowledgment
+"More than anything, I recommend not solely using big studio speakers to finalize sound.",54,Listen in Various Environments,01:46,listening environments
+"Instead of encouraging perfection, a major concept of the game was expanding the possible play types.",59,Kirby Air Ride,02:40,replay and variety
+Make the problem and the potential solution a set package.,60,Don't Wait to Speak Your Mind,01:57,raising-problems
+"Don't assume the camera should always be following your character, but instead make sure it fits your gameplay and presentation.",61,Don't Anchor Your Center Point,02:30,camera
+One minor tweak to the silhouette can make a huge difference.,62,Attack Poses,02:35,silhouette
+"Normally, objects made in CG will look more like a scale model, so you have to find ways to make up that difference.",63,Get the Sense of Scale Right,03:08,sense of scale
+"When you're adding a mechanic to your game, think about how to oppose that mechanic, too.",65,Falling Sells the Feeling of Flight,02:11,opposing forces
+"You'll forget the hardship, but the game will endure!",67,"You'll Forget the Hardship, But the Game Will Endure!",01:20,quality
+I established a rule that anything inside brackets is turned into a parameter.,68,Put Parameters in Brackets,03:22,spec notation
+"However you do it, a song will have more impact if people can remember its melody.",69,Game Music and Ambient Sounds,02:34,memorable music
+"To summarize, it's possible to take enemies out of games if you want, but you still need the stress and relief they provide.",71,Do We Really Need Enemies?,02:56,stress without enemies
+"This might sound like an exaggeration, but I'll say it anyway: To make players wait is a sin!",73,Say No to Slow!,02:45,player time
+"Even though I'm not great at these games, I knew I could come up with a proposal if I just figured out the principles behind their game essence.",74,Meteos,01:44,designing outside your taste
+Frames are the basis for all movement in games. That's why it's so important to learn how long they are.,76,Learn to Count Frames!,00:47,frames as time
+The follow-through after an attack determines the impact of the attack itself. Don't let it fizzle out—keep those actions expressive right to the end.,77,Follow-Throughs Make the Impact,04:01,follow-through
+An unknown game may as well not exist.,80,Marketing is Multiplicative,00:25,visibility
+Development and marketing are multiplicative. The success of one is proportional to the success of the other.,80,Marketing is Multiplicative,01:56,marketing and development
+"If you're feeling unmotivated, there's no point in overthinking it. The time is now. Get those hands moving.",83,Just Do It Already!,01:01,motivation
+"Tutorials shouldn't feel like work, or like they're slowing down the beginning of the game— instead, try to weave them into the game's progression itself.",85,Making Tutorials Feel Natural,02:33,tutorials
+"You shouldn't start your design with the idea that blocks have to disappear, but instead consider why it's fun to make those blocks disappear.",86,Game Essence in Falling-Block Puzzle Games,01:55,design from why it is fun
+"If you don't remember right from the start that fighting games are nothing like actual fighting, you'll end up drifting far away from the game essence you want.",89,Audio as Fiction and Non-Fiction,01:14,exaggeration
+"When supervising a game's graphics, there's no better way to explain what you want than by just showing it.",90,Supervising Art Through Retouches,00:03,feedback-giving
+"When you're lacking information, create big animations to make up for it.",91,Exaggerate to Make Up for Information Loss,01:56,exaggeration
+"Before it was done, I never got the chance to test the game out on the production handheld.",92,Sodatete! Kouchuu Ouja Mushiking,08:13,testing on real hardware
+"You have to enjoy it, not feel beholden to it.",98,How I Stuck With My Column,02:29,sustainable habits
+"No matter how much you want to catch your players by surprise, don't paint a picture that doesn't represent your game!",101,Paint an Accurate Picture of Your Game,00:33,honest representation
+Even a tiny amount of shake can give attacks a drastically different impact.,103,Screen Shake,03:07,screen shake
+Players press buttons because they want something from the game.,104,Don't Be Unresponsive,01:35,responsiveness
+Players press buttons because they want something from the game.,104,Don't Be Unresponsive,01:35,responsiveness
+"My point is, it's not a good idea to keep player and enemy strength in direct proportion.",105,Mountain Climbing Is More Than Just Climbing,00:25,difficulty curve
+"There should always be an ideal spec to start, and from there you can course-correct to maximize cost effectiveness.",109,"Don't Rely on a ""Plan B""",00:54,proposals
+Fonts and UI are both a part of a game's worldbuilding. You might even say they're the package that the world is wrapped in.,111,Menus Define Your World,01:23,UI style
+"The more aware you are of the market, the better you'll be able to target it— and that's really the main point here.",112,Branching Tastes,03:51,targeting
+By having team members see the feedback everyone was getting—not just their own— they could all learn and grow.,114,Explain Ideas to Everyone at Once,02:06,group-feedback
+"I'm talking about the time between when the player thinks, ""Ugh, I blew it!"" and when they actually get control again.",117,Make Retries Quick,00:48,quick retries
+It's important to consider where players will look while they're playing your game. And it's even more important to anticipate what they'll be thinking.,119,"Maps Are Game Screens, Too",02:02,navigation and HUD
+"Starting with the TPS portion would've required the player to immediately learn how to dodge, aim, and fire— which would be a lot for beginners.",125,Kid Icarus: Uprising,04:00,onboarding
+"Take a lot in, put a lot out. Stay active with both, and I think you can achieve great things.",126,"Broad Input, Broad Output",01:34,input and output
+"Compared to text, pictures can be recognized much faster, and parsed largely through intuition.",133,Color-Coding Your Game,01:28,icons and color
+"What downsides will you accept, and what upsides will you gain? I'd say this kind of thinking can be effective in any game.",134,Game Essence in Shooting Games,01:54,trade-offs
+"I considered 60 FPS gameplay to be an absolute must, so we pared things down until that was realized.",135,Super Smash Bros. for 3DS / Wii U,08:33,hard targets and trimming
+"I considered 60 FPS gameplay to be an absolute must, so we pared things down until that was realized.",135,Super Smash Bros. for 3DS / Wii U,08:33,frame rate
+"If people get the idea that a game has to be completely bug-free, it will end up practically impossible to release games.",136,Bug Testing Never Ends,03:37,bug testing
+Don't make it look like a fight between live action and animation.,138,A Fight Between Live Action and Animation,03:43,style unification
+"But when you're working with computers, sometimes there's no telling what you might get.",141,Unexpected Results,03:13,hardware surprises
+"The damage pose and standby pose can be quite similar in some games, but we like to go for something more extreme that's nothing like the standby pose.",142,Damage Animations,00:33,damage pose
+"Instead of just making a site in a standard fashion, you want to find a form that best fits your game.",143,Official Websites,02:31,official website
+"In other words, by releasing pressure, the ideas in your mind lose their power.",144,Keep Your Internal Pressure High,00:52,ideas
+"However you cut it, when arranging beloved songs, the original piece is always right.",146,The Original Piece is Always Right,06:20,arrangement fidelity
+"Risk and reward, when balanced correctly, should scale in almost perfect proportion.",148,More Game Essence Means Less Broad Appeal,02:00,risk and reward scale together
+We should be kind to beginners.,148,More Game Essence Means Less Broad Appeal,02:38,beginners
+But convenience doesn't mean quality.,150,The Perils of Interpolation,00:32,interpolation
+"In that sense, you could say that graphics multiply the fun of a game.",152,Do Graphics Impact Fun?,02:05,graphics and fun
+"Ideas decided by majority end up being the safest ideas. In other words, the most mediocre.",158,The Majority Shouldn't Always Rule,01:01,decision-making
+A move with high risk should deliver a big reward.,159,The Shoryuken Command,03:16,reward scaling
+"I knew if there would ever be a chance to include everyone, this would be it!",160,Super Smash Bros. Ultimate,02:23,concept from circumstance
+"In your proposal and your final product, do your best to let things shine in a way all their own.",161,Avoiding Comparison,02:35,originality
+"When you think something's good enough, zoom in and go bolder.",163,Fighter Reveal Videos,04:38,trailer polish
+"I don't want us to just copy the originals, but honor the feeling and do what works best.",165,Odds and Ends of Supervising,04:51,faithfulness
+"Hence, my policy is: ""strong attack, light reverb.""",167,"Strong Attack, Light Reverb",02:35,impact sounds
+"When the player's not in control, make sure they can skip what you're showing them—I can't emphasize that enough.",180,"Let Them Skip, Let Them Pause",01:55,skipping
+There's little point in writing an email asking for more clang or boom.,185,Giving Feedback for Sound Effects,01:03,sound feedback
+"And please, get to the actual game as soon as possible!",186,Show the Actual Game!,00:50,trailers
+"Come storm or dark of night, the one thing you should never change is your trajectory toward that light.",187,Staying True to Your Concept,01:03,concept
+"Come storm or dark of night, the one thing you should never change is your trajectory toward that light.",187,Staying True to Your Concept,01:03,concept
+"In a game, players need to feel to some extent like they're responsible for their own failure.",189,Randomness Spices Games Up,01:22,randomness and fairness
+"Since decisions set the trajectory of your project, frequent slight adjustments can ensure that things stay on the right path.",191,Don’t Put Decisions Off,01:55,course-correction
+"By waiting until right when an attack is going to hit you, you can experience the fun of turning massive risk into massive reward.",193,Game Essence in Action Games,02:03,last-moment timing
+"As a result, you don't want a blend to last too long. Make it quick and snappy.",194,Animation Blending,01:49,blending
+the convenience a debug mode provides will have a huge impact on a team's productivity.,195,Debug Mode,02:09,debug tools
+"However, it's a necessity for some of our players. Whenever possible, I urge you to add support for this feature.",197,Button Settings,02:57,button remapping
+Games where the person with the most skill keeps winning every single time just aren't fun.,202,Handicap Systems,00:49,handicaps
+"If you stop playing for a second and hear nothing but dead silence, there'll be no sense of atmosphere.",204,Balancing Ambient Sounds,00:46,ambience
+"However, the trickiest thing about bugs is that whenever you resolve one, you run the risk of introducing new bugs.",208,Bug Testing Systems,03:46,regression
+"No matter how fun tense challenges may be, the moment players give up, it's all over.",213,Better Than Not Being Able to Beat the Game,01:20,stuck players
+"If your game is primarily built around color, solely relying on that will make it so that players with color blindness won't be able to play.",214,A World with Less Color,00:24,color accessibility
+"When I do end up saying something, it's most often because a fighter's individuality is being threatened.",220,Play Testing Keeps Going,03:14,individuality
+"If you simply brighten a character when they get hit, they'll vanish into the background like this.",223,Flashing Effects,01:55,hit flashes
+"When crafting attack animations, it's important that the animators are always aware of when and where collision occurs.",225,Always Keep Attack Collision in Mind,01:52,collision
+Targeting and market research data is built on everything that's come before. They don't show the path to what comes next.,226,Targeting and Market Research,01:33,market research
+"This is important, so I'll say it again: don't explain using the same words!",229,Adding Help Text to Menus,00:54,help text
+"no matter how much you improve your game through patches, it won't mean anything if your players have already given up on the game.",231,Online Updates,03:31,launch quality
+"no matter how much you improve your game through patches, it won't mean anything if your players have already given up on the game.",231,Online Updates,03:31,launch quality
+"With games in particular, players really want to take control and find out about your game— so it's no time for ambling along. Let them play, first thing!",235,Start with the Climax,01:00,openings
+Quantity over quality— save the pruning for later.,237,When Ideas Won't Come,01:25,ideation
+"Ideally, games should be playable even if you can't read a single word.",240,"Making Things Clear, Even Without Words",02:12,wordless clarity
+"Their form should be exaggerated, even when they're just solid black.",243,Establishing Characters Through Their Design,01:38,silhouette
+"It's a sin for a game to make players wait. I can't say this is an unbreakable rule, but it's almost impossible to make things too fast.",246,Speedy Screen Transitions,00:10,transitions and waits
+"When there are lots of possible actions or moves, don't make the balance mediocre! Keep your peaks and valleys!",247,Amplify Both Strengths and Weaknesses,02:29,character balance
+"Compared to us jaded adults, children are the purest of the pure! When they're playing a game, you'll always get their honest reactions.",248,Elementary School Play Testers,00:31,playtesting
+"Unfortunately, the game industry is much smaller than you might think. So, never get into fights!",249,Never Get Into Fights,00:47,relationships
+"The time players spend in a game is a cost, so it's best to be mindful of the time they're choosing to give you.",250,Be Mindful of the Time Players are Giving You,02:31,player time
+"Remember that your game should be both easy and fun to play, so design your HUD with those goals in mind.",254,HUDs,02:59,HUD
+"developers who already know a game shouldn't be considered as the standard— instead, make the game even easier than you think it should be, and it'll be just right.",256,Give Yourself a Handicap When Balancing Your Game,02:12,developer bias
+"Even more than the game itself, its visuals, or its characters— audio is what hits you right in the heart.",257,No Masterpiece Has Bad Audio,01:33,importance of audio
+"That's because a director not only creates, but is also responsible for trimming the excess.",258,A Director’s Job is to Trim,01:11,scope
+"Up is down, and down is up. Be sure to remember this, especially if you're in a leadership or directorial position.",260,"Up is Down, and Down is Up",02:53,leadership

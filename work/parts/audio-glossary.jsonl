@@ -1,0 +1,17 @@
+{"term": "Strong attack, light reverb", "meaning": "Sakurai's policy for impact sounds: reach a strong level almost instantly (a short attack peaking at the start) and keep the reverberation short, so hits register right away and don't bury the next one.", "episodes": "167"}
+{"term": "Attack (of a sound)", "meaning": "The opening of a sound's waveform as it rises to its peak; for impact sounds he wants it short so the sound never feels late.", "episodes": "167"}
+{"term": "Pre-check audio", "meaning": "The version of a sound effect the sound team submits for his review before revision; for impacts it typically has a longer tail than the final.", "episodes": "167"}
+{"term": "Ambient sounds", "meaning": "Background sounds of a place, the lowest priority in his mix, kept quiet and fairly realistic but never cut to dead silence.", "episodes": "204;69"}
+{"term": "Soundscape", "meaning": "All the layers of sound in a scene (wind in leaves, feet on dirt, clinking armor), each of which needs its own appropriate presence.", "episodes": "69"}
+{"term": "Audio as fiction and non-fiction", "meaning": "His framing of the choice between exaggerated sounds (fiction, to sell impact) and realistic ones (non-fiction, to convey material and information).", "episodes": "89"}
+{"term": "Main melody", "meaning": "The part of a song players remember and hum; he insists arrangements keep it, and defines it by what players heard in play rather than by music theory.", "episodes": "127;146"}
+{"term": "The original piece is always right", "meaning": "His rule for arranging beloved game music: the song as heard when playing the original game is the authority, quirks and hardware-driven structure included.", "episodes": "146"}
+{"term": "Tempo / BPM", "meaning": "Beats per minute: one clap per second is 60 BPM, two is 120. He treats tempo as a design decision for every scene.", "episodes": "25"}
+{"term": "Loop point", "meaning": "Where a looping track jumps back to; for Smash arrangements it can sit before or after the intro, with only a little looping within a match.", "episodes": "127"}
+{"term": "Sound director", "meaning": "The audio lead who translates a director's notes into musical terms; Sakurai routes all arrangement feedback through Smash Ultimate's sound director.", "episodes": "127;107"}
+{"term": "Talkback", "meaning": "The studio button a director uses to speak to voice actors in the booth; he usually directs Smash voice sessions this way.", "episodes": "107"}
+{"term": "Pulse wave / duty cycle", "meaning": "The Famicom's crisp, castle-parapet-shaped waveform that carried most of its music; changing its time ratio (duty cycle) changes the texture.", "episodes": "239"}
+{"term": "DPCM", "meaning": "The Famicom channel that allowed sampled sounds, used sparingly early on because samples took a lot of cartridge space; Super Mario Bros. 3's timpani is the famous example.", "episodes": "239"}
+{"term": "Expansion audio", "meaning": "Extra sound chips in Famicom cartridges, or the Disk System's wave memory channel, that gave Japanese versions richer music; the NES lacked the pins for them.", "episodes": "239;96"}
+{"term": "My Music", "meaning": "Brawl's feature offering several songs per game world and letting players choose, because each generation has its own version of a series.", "episodes": "108"}
+{"term": "PRESS START", "meaning": "The annual omnibus game-music concert Sakurai presided over for ten years from 2006, with the performance kept at the center.", "episodes": "116;227"}

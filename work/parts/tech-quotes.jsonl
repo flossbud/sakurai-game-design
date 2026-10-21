@@ -1,0 +1,10 @@
+{"quote": "You could say the code is the bones, and the parameters are the muscles.", "ep": 46, "title": "Making Your Game Easy to Tune", "time": "01:14", "theme": "parameters"}
+{"quote": "I established a rule that anything inside brackets is turned into a parameter.", "ep": 68, "title": "Put Parameters in Brackets", "time": "03:22", "theme": "spec notation"}
+{"quote": "the convenience a debug mode provides will have a huge impact on a team's productivity.", "ep": 195, "title": "Debug Mode", "time": "02:09", "theme": "debug tools"}
+{"quote": "I considered 60 FPS gameplay to be an absolute must, so we pared things down until that was realized.", "ep": 135, "title": "Super Smash Bros. for 3DS / Wii U", "time": "08:33", "theme": "frame rate"}
+{"quote": "many people don't recognize lag when they see it.", "ep": 8, "title": "Down with Lag!", "time": "01:19", "theme": "input lag"}
+{"quote": "If people get the idea that a game has to be completely bug-free, it will end up practically impossible to release games.", "ep": 136, "title": "Bug Testing Never Ends", "time": "03:37", "theme": "bug testing"}
+{"quote": "However, the trickiest thing about bugs is that whenever you resolve one, you run the risk of introducing new bugs.", "ep": 208, "title": "Bug Testing Systems", "time": "03:46", "theme": "regression"}
+{"quote": "no matter how much you improve your game through patches, it won't mean anything if your players have already given up on the game.", "ep": 231, "title": "Online Updates", "time": "03:31", "theme": "launch quality"}
+{"quote": "But when you're working with computers, sometimes there's no telling what you might get.", "ep": 141, "title": "Unexpected Results", "time": "03:13", "theme": "hardware surprises"}
+{"quote": "Remember: it's not just you who needs to understand your game.", "ep": 22, "title": "Name Files Logically", "time": "04:29", "theme": "file naming"}

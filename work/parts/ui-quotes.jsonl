@@ -1,0 +1,10 @@
+{"quote": "When the player's not in control, make sure they can skip what you're showing them—I can't emphasize that enough.", "ep": 180, "title": "Let Them Skip, Let Them Pause", "time": "01:55", "theme": "skipping"}
+{"quote": "Players press buttons because they want something from the game.", "ep": 104, "title": "Don't Be Unresponsive", "time": "01:35", "theme": "responsiveness"}
+{"quote": "This is important, so I'll say it again: don't explain using the same words!", "ep": 229, "title": "Adding Help Text to Menus", "time": "00:54", "theme": "help text"}
+{"quote": "Ideally, games should be playable even if you can't read a single word.", "ep": 240, "title": "Making Things Clear, Even Without Words", "time": "02:12", "theme": "wordless clarity"}
+{"quote": "A game's UI is like a drawer. When you pull it open, you want things to be organized in a sensible way.", "ep": 18, "title": "Clarity vs. Style", "time": "01:06", "theme": "menu organization"}
+{"quote": "Fonts and UI are both a part of a game's worldbuilding. You might even say they're the package that the world is wrapped in.", "ep": 111, "title": "Menus Define Your World", "time": "01:23", "theme": "UI style"}
+{"quote": "Compared to text, pictures can be recognized much faster, and parsed largely through intuition.", "ep": 133, "title": "Color-Coding Your Game", "time": "01:28", "theme": "icons and color"}
+{"quote": "However, it's a necessity for some of our players. Whenever possible, I urge you to add support for this feature.", "ep": 197, "title": "Button Settings", "time": "02:57", "theme": "button remapping"}
+{"quote": "It's important to consider where players will look while they're playing your game. And it's even more important to anticipate what they'll be thinking.", "ep": 119, "title": "Maps Are Game Screens, Too", "time": "02:02", "theme": "navigation and HUD"}
+{"quote": "Remember that your game should be both easy and fun to play, so design your HUD with those goals in mind.", "ep": 254, "title": "HUDs", "time": "02:59", "theme": "HUD"}

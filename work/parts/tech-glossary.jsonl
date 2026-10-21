@@ -1,0 +1,26 @@
+{"term": "Parameters", "meaning": "The values that might need tuning later, such as attack power or walking speed, kept separate from code so planners can adjust them; code is the bones and parameters the muscles.", "episodes": "46;68"}
+{"term": "Conversion", "meaning": "The step that puts edited parameter data into a build where it can be tested; one button press at Bandai Namco Studios, ten minutes plus a reboot on early Smash games.", "episodes": "46"}
+{"term": "Brackets and O", "meaning": "Sakurai's spec notation: a tunable value is written as a plain-language phrase in brackets with O for the number, and anything in brackets becomes a parameter.", "episodes": "68"}
+{"term": "p/f (pixels per frame)", "meaning": "Speed unit in his sprite-game specs: how many pixels an object moves each frame.", "episodes": "84"}
+{"term": "Label", "meaning": "The internal file-name class every action has in Smash, such as Attack11, AttackS4, AttackAirF or SpecialHi.", "episodes": "22"}
+{"term": "N / Hi / S / Lw / Air", "meaning": "Smash label modifiers for neutral, up, side, down and aerial.", "episodes": "22"}
+{"term": "Frame", "meaning": "One redraw of the screen and games' usual unit of time; at 60 fps, one second is 60 frames, and distance equals time times speed.", "episodes": "5;76"}
+{"term": "1-and-2-and counting", "meaning": "His method for feeling frames: each beat is about 30 frames at 60 fps and half a beat about 15.", "episodes": "76"}
+{"term": "Screen interrupt", "meaning": "The per-refresh signal his NES and SNES games used as their unit of time, which made PAL versions run at 5/6 speed.", "episodes": "5"}
+{"term": "Variable frame rate vs. slowdown", "meaning": "Dropping frames means redrawing less often; slowdown means the game itself runs slower. They are not the same.", "episodes": "5"}
+{"term": "Display latency vs. response time", "meaning": "Response time is how long a pixel takes to change color; display latency comes from picture post-processing and is what Game Mode or Low Latency Mode removes.", "episodes": "8"}
+{"term": "Debug mode (developer mode)", "meaning": "In-development features for testing and analyzing the game, stripped from the release build.", "episodes": "195;217"}
+{"term": "Enbugging", "meaning": "Introducing new bugs while fixing one, the reason fixes and patches cannot ship instantly.", "episodes": "136"}
+{"term": "Class S / Class A", "meaning": "Bug severity classes: S for hangs or possible save corruption, A for bugs that stop progression; lower classes are sometimes waived on purpose.", "episodes": "208"}
+{"term": "Ticket", "meaning": "A task written and tracked online with one owner and a status; used for all work and for bug reports.", "episodes": "94;208"}
+{"term": "Resolved status", "meaning": "Where a fixed bug ticket goes instead of being deleted, in case the bug comes back.", "episodes": "208"}
+{"term": "Latest daily build", "meaning": "The one build every tester must use; bugs found on old versions are not helpful.", "episodes": "208"}
+{"term": "Reversion", "meaning": "When a person's edits vanish and a file returns to its pre-edit state; common despite file-management tools.", "episodes": "172"}
+{"term": "LOD (level of detail)", "meaning": "Swapping in lower-polygon models as objects move away from the camera; labor-intensive, so only worth it when the gain justifies it.", "episodes": "44"}
+{"term": "Billboard / Y-axis billboard", "meaning": "A flat object that always faces the camera; a Y-axis billboard rotates only around the vertical axis and can look too skinny when misused for effects.", "episodes": "153"}
+{"term": "Major and minor elements", "meaning": "His split between what players actually see and what they do not, used to allocate performance and labor.", "episodes": "44"}
+{"term": "Dev board", "meaning": "Development hardware that may run differently from the retail unit; Mushiking's was just under one square meter.", "episodes": "92;141"}
+{"term": "Reflex (CPU)", "meaning": "Smash Ultimate's built-in reaction delay that stops CPU players reacting instantly.", "episodes": "221"}
+{"term": "Synchronous vs. asynchronous communication", "meaning": "Fully synchronous online play like Smash needs nearby players; asynchronous play like Mario Kart tolerates distance better.", "episodes": "108"}
+{"term": "Variable character strength", "meaning": "A parameter layer that changes character stats, equipment or move versions; it powered party modes, customization and amiibo but suits only non-level-playing-field modes.", "episodes": "135"}
+{"term": "Attribute (Famicom)", "meaning": "The hardware rule that palettes are shared across 16x16 areas, so placing an object can recolor the ground under it.", "episodes": "118"}

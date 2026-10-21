@@ -1,0 +1,231 @@
+term,meaning,episodes
+"'Ugh, I blew it!' window",The time from the player realizing they failed until they regain control; interest cools fast inside it.,117
+1-and-2-and,"Sakurai's frame-counting method: clap seconds with an in-between beat, giving about 30 frames per beat and 15 per half beat at 60 fps.",76
+1-and-2-and counting,His method for feeling frames: each beat is about 30 frames at 60 fps and half a beat about 15.,76
+A fight between live action and animation,What a cast or world looks like when realistic and cartoony designs are dropped together unadjusted; his shorthand for a failure of style unification.,138;130
+A world without footprints,"Playing a game completely blind, 'as if I'm the first person walking on freshly-fallen snow', with no trailers, guides or Let's Plays; his preferred way to study others' work.",199
+Actual playtime,"The time the player has control. Sakurai tracks how long the player is in control, how long not, and how much is emptiness.",73;250
+Additive blending,"Adding an element's colors to the background so the result moves toward white; distinct from translucency, which moves toward the element's own colors. Useful but not enough on its own.",16;223
+Aerial perspective,The way distant things lose contrast and saturation and take on atmospheric color; used to push backdrops back and to make big things read as big.,30;10;174;253
+"agon, alea, mimicry, ilinx","Roger Caillois's four elements of play (competition, chance, imitation, vertigo); Sakurai places game essence mainly in agon.",178
+Air Battle / Land Battle,Kid Icarus: Uprising's two halves: a rail-shooter flight to each battlefield (Pit's Power of Flight lasts five minutes) followed by third-person shooting on the ground.,125;227;235
+Ambient sounds,"Background sounds of a place, the lowest priority in his mix, kept quiet and fairly realistic but never cut to dead silence.",204;69
+Animatics,"Rough edits made by moving and stretching storyboard art; in Sakurai's reveal pipeline, the point at which a video's structure and length are essentially set.",163
+animation blending,"Combining two or more animations, such as blending a canceled attack into a walk; keep blends quick and snappy.",194
+animation list,"Sakurai's written document listing every animation with a text description, its length and when the attack occurs; loops are marked 'Loop' or 'Any'.",14
+Antithesis (to fighting games),How Smash is described relative to fighting games. Sakurai stresses it is not a rejection: he admires their push and pull but felt combos removed it after the first hit.,27
+Assignment,"How Sakurai frames every project: a game made to fit a given genre or goal, not a game made for his own taste.",7;261
+attack (key pose),"The part of an attack animation when it can register as a hit, plus a little motion around it; hit stop freezes it into a firm, readable pose.",36;62
+Attack (of a sound),The opening of a sound's waveform as it rises to its peak; for impact sounds he wants it short so the sound never feels late.,167
+attack start frame,One of the four values Sakurai specifies for each attack: the frame on which the attack begins to register.,36
+Attribute (Famicom),"The hardware rule that palettes are shared across 16x16 areas, so placing an object can recolor the ground under it.",118
+Audio as fiction and non-fiction,"His framing of the choice between exaggerated sounds (fiction, to sell impact) and realistic ones (non-fiction, to convey material and information).",89
+average and mediocre,His warning that balancing everything toward the middle makes options interchangeable and the game bland.,218
+beginners (not children),"His target for the original Kirby: people new to games of any age or gender, as opposed to a demographic slice.",226
+Billboard,"A flat object, usually a two-polygon mesh, that always faces the camera; cheap to render and ideal for particles and light flashes. A Y-axis billboard turns only around the vertical axis.",153
+Billboard / Y-axis billboard,A flat object that always faces the camera; a Y-axis billboard rotates only around the vertical axis and can look too skinny when misused for effects.,153
+blade trails,"Sakurai's name for the effect left behind by a sword swing, usually a fading polygon ribbon; the swing animation often has to be adjusted for it to read.",179
+Boost,"How Sakurai describes what his lessons offer: a small addition on top of your own experience, skill and way of thinking.",1;261
+boss stop,"Sakurai's own coinage for the stop when a boss is defeated: the screen stops and flashes for a moment, used since Kirby's Adventure.",3
+Bracketed parameters,"Sakurai's spec notation: each tunable value is written in plain language inside brackets with an 'O' placeholder, e.g. '[Special startup X-velocity is O]', and anything in brackets becomes a parameter.",68
+Brackets (parameter notation),"Sakurai's spec convention: write each tunable value as a plain-language phrase in brackets with ""O"" as the number, e.g. [Special startup X-velocity is O]; anything inside brackets becomes a parameter.",68
+Brackets and O,"Sakurai's spec notation: a tunable value is written as a plain-language phrase in brackets with O for the number, and anything in brackets becomes a parameter.",68
+breaking point,"The point at which any player stops improving and gives up, which is why stuck players need a way forward.",213
+brick wall,How a risk that is minor to an experienced player can feel to a less experienced one.,148
+broad appeal,How many kinds of players a game can reach; Sakurai holds that increasing game essence reduces it.,6;148
+"Broad input, broad output","His habit of taking in many games and media reflectively while producing regular output (column, daily report, screenshots, the channel): 'Take a lot in, put a lot out.'",126
+bundodo,Japanese word for zooming an action figure around by hand; Sakurai suggests it as a way for animators to train an eye for poses.,106
+cancel frames,"Frames late in an attack's follow-through during which the player can move, jump or attack again before the animation returns to standby; added to Smash after Melee.",36;77;194
+center point,"The usually invisible point a 3D camera looks at. Sakurai's advice: don't anchor it to the character, especially on the Y axis.",61;103
+cheat the system,"Getting gains without losses inside the game's rules, such as metal slime farming; fun and memorable, but not extended to rewriting parameters.",48
+Checklist,"Kirby Air Ride's achievement grid, predating console trophies; clearing a square reveals the conditions for its neighbors.",59
+Checklist (Challenges),A grid of objectives introduced in Kirby Air Ride: clearing a panel reveals the conditions of its neighbors. Later used in Smash as Challenges.,59;151
+City Trial,"Kirby Air Ride's sandbox mode with varying power-ups and stadiums, built to widen play types rather than reward one perfect line; later the basis of Smash Run.",59;135
+Class S / Class A,"Bug severity classes: S for hangs or possible save corruption, A for bugs that stop progression; lower classes are sometimes waived on purpose.",208
+Class S / Class A bugs,"Severity grades a manager assigns: Class S for hangs and bugs that might corrupt save data, Class A for bugs that stop players progressing; lower classes are sometimes waived on purpose.",208
+cling to life,"Last-moment survival options, like rotating a Tetris piece after it lands, that invite greater risk-taking.",86
+Color blindness filter,A simulation filter (now built into Photoshop) that shows how art looks with types of color blindness such as protanopia; he used it to check Meteos.,214
+Color disparity,"Differences in how each monitor (and room lighting) shows the same color, which he treats as fatal for art reviews.",184
+Concept (the lighthouse),"What gives a game its appeal and direction, e.g. 'the fun of sending opponents flying'. Sakurai compares it to a lighthouse beam: keep heading toward it through any storm and never change that trajectory midway.",187
+Conversion,"The step that puts edited parameter data into a build where it can be tested; one button press at Bandai Namco Studios, ten minutes plus a reboot on early Smash games.",46
+Copy Ability,"Kirby's power to take an inhaled enemy's ability, introduced in Kirby's Adventure as an optional depth layer on top of inhale-and-spit, so every enemy gained meaning.",11;2;20
+Crisp effects,"Polygons or simple images mixed into an effect and made its focus, giving Smash Ultimate's effects a clean, anime-style look.",16
+Daily Report,"Sakurai's internal daily post to his team (a screenshot plus three to five topics, open to comments), started during Brawl.",123;43;261
+damage pose,"The first frame of a damage animation, held by hit stop; in Smash it's an extreme pain pose nothing like standby.",142
+de facto standards,"Genre control conventions (such as FPS fire and grenade buttons) that Sakurai says you're better off using, because they warm 'the handshake between human and computer'.",175
+Debug mode (developer mode),"In-development features for testing and analyzing the game, stripped from the release build.",195;217
+"deconstruct, analyze, rebuild","Sakurai's method: pick what is fun, work out why (usually risk and reward), then rebuild it into an original mechanic.",57
+Dev board,Development hardware that may run differently from the retail unit; Mushiking's was just under one square meter.,92;141
+diagonal grip,How a hand holds something swung with the forearm; a perpendicular grip makes characters look like action figures.,210
+display latency,"Delay added by a screen's picture post-processing, bypassed by Game Mode or Low Latency Mode; distinct from response time, the time a pixel takes to change color. At 60 fps, 16.67 ms is one frame.",8
+Display latency vs. response time,Response time is how long a pixel takes to change color; display latency comes from picture post-processing and is what Game Mode or Low Latency Mode removes.,8
+Display priority,"The draw order that decides whether characters or effects appear in front; easy to force in 2D, but forcing it in 3D causes depth disparity.",35;131;165
+DPCM,"The Famicom channel that allowed sampled sounds, used sparingly early on because samples took a lot of cartridge space; Super Mario Bros. 3's timpani is the famous example.",239
+Dragon King: The Fighting Game,"The N64 prototype that became Super Smash Bros.; it had no special moves, dodges or items but already used Smash's rules. Iwata programmed it.",27;259
+"Draw the light, not the asset",His most common note to background artists: an asset isn't finished when it's modeled and textured with base colors; it must express the light it reflects in its environment.,10
+Drawers on top of drawers,Nested window hierarchies needed by feature-packed games like his own; he calls organizing them a constant struggle.,18
+dynamic range,How far apart options are allowed to be; he wants it pushed as far as possible.,247
+Echo chamber,"A circle where your views keep being reinforced by agreement, hiding the many people who disagree; it distorts how you judge design ideas, reviews and balance.",228;218;247
+Elite Smash,A status tier for top players that also matches them against each other.,170
+Enbugging,"Introducing new bugs while fixing one, the reason fixes and patches cannot ship instantly.",136
+enemy table,Xevious's predefined spawn order that advances as you play and can be rewound by destroying a specific enemy.,156
+Errands,"Stretches where the story sends the player back and forth; mechanically just a few flags, so their packaging (rewards, small joys, route choice, quick exit, mystery) decides whether they're fun.",64
+Everyone is here!,"Super Smash Bros. Ultimate's core concept: bringing back every past fighter, feasible because the team and dev environment carried over.",160
+expanding play types,Kirby Air Ride's aim of broadening how people play instead of encouraging one perfect method.,59
+Expansion audio,"Extra sound chips in Famicom cartridges, or the Disk System's wave memory channel, that gave Japanese versions richer music; the NES lacked the pins for them.",239;96
+Expression,"His umbrella word for everything (visuals, audio, programming, parameters) that together makes a massless game world feel real.",205
+Fiend's Cauldron / Intensity,"Kid Icarus: Uprising's difficulty wager: spend hearts to raise Intensity (default 2.0, up to 9.0) for bigger rewards or lower it (0.0 is nearly invincible); failure spills hearts and eases the retry.",41;227;125
+Fighter reveal,"Smash's flashy announcement videos for new fighters, split into CG and gameplay segments; made official from Smash for 3DS/Wii U, 37 in all.",163;135;80
+Final output,The finished frame after everything is drawn into the framebuffer and post-processed; on powerful hardware it matters more than any single model.,215
+Final Smash,"Brawl's per-character super move; it could have been a generic item, but each fighter got their own to boost individuality.",108
+Finish Zoom,"Smash Ultimate's zoomed stop on a match-deciding hit; Sakurai calls it an extension of stop effects, closer to boss stop.",3
+fixed knockback,A knockback value that ignores damage so the target always reacts the same way; used on the early hits of multi-hit moves like Mario's Super Jump Punch.,145
+Flashing,"His term for making the screen or a character shine: a full-screen flash for impact, a character flash to emphasize a change in status.",223
+flick input,Sakurai's name for reading how fast the analog stick reaches the edge of its range to trigger a dash (localized as 'Tap' in the N64 Super Smash Bros.).,154
+flipped animation,"The Smash team's internal name for mirroring poses and movements when a character changes facing, so they face the camera from both sides.",181
+follow-through,"The motion after the attack, when the character is briefly vulnerable (the recovery period); it takes the most screen time and determines the attack's impact.",36;77
+Frame,"One redraw of the screen and games' usual unit of time; at 60 fps, one second is 60 frames, and distance equals time times speed.",5;76
+Free bonus (updates),"Sakurai's framing of post-launch balance and quality-of-life updates: welcome extras beyond the promise kept at launch, unlike fixes for fatal bugs.",231
+fun beyond game essence,"Sources of fun other than push and pull: control feel, story, licensed fandom, simulation, building and crafting, rhythm.",26
+game essence,"Sakurai's name for a game's push and pull, or risk and reward: the fun of managing risks to get rewards. He calls it one part of a game's identity, not the whole.",6;26;193
+givens,Genre conventions taken for granted; he re-examines them at the start of each project.,82;232
+Global Smash Power (GSP),"Smash Ultimate's rank, where higher is better, measured against the whole player count, and the top player is hidden.",170;200
+guaranteed minimum knockback,A per-attack minimum launch so even a barely damaged target reacts; paired with knockback scaling to keep it from inflating launches.,145
+handicap,"Any system or setting that evens out unequal players, from catch-up items to per-player difficulty.",157;202;256
+Handshake between human and computer,His phrase for the controls and conventions that connect player and game; standard controls make it a little warmer.,175
+Help text,"A short description of the highlighted menu item, often at the bottom of the screen; his rule is never to explain an item using its own name.",229
+Helper,"Kirby Super Star's co-op system: an enemy's ability becomes a second playable character in a supporting role, with the camera following only the lead player.",20
+Helper system / Space Jump,"Kirby Super Star's co-op solution: the camera follows the lead player, and a supporting Helper who drifts too far off screen 'Space Jumps' back.",20
+Hierarchical outline,"A collapsible, folder-like text outline (heading, subheading, detail) he uses for ideas and specs, e.g. fighter, then special moves, then each move's spec.",137
+Hit marks,"Sakurai's name for the visual flair shown when an attack connects (sparks, flashes, shockwaves); guard effects count as hit marks too.",131
+hit stop,A brief stop of both attacker and target when an attack lands; whether it's there completely changes how heavy a hit feels. In Smash it always includes some shake.,3;47
+Home base,"One official place, usually the game's website, that delivers all of a game's information alongside social media.",143
+HUD (heads-up display),"Information overlaid on the play area, named after fighter-plane displays that let pilots read data without looking away; in games, everything placed at the forefront of the screen.",254
+human adjustments,"Easing off by hand, like letting a child grab the Smash Ball; possibly the most effective handicap there is.",202
+Ideal spec,"The best version of a design, written first; you then course-correct from it for cost-effectiveness instead of bending the proposal out of shape up front.",109
+Image boards,"A few pieces of art by an exceptional artist showing a game's world, scenery, characters and items, used as the reference that unifies the team's style.",130
+individuality,A fighter's distinct identity; protecting it is the main reason he steps into balance decisions.,218;220
+input density,"How many inputs per second the game demands; Brawl lowered speed partly because the higher the input density, the more online frame skips stood out.",108
+Internal pressure,"Sakurai's name for the creative force that builds when you keep an idea to yourself; talking or posting about it releases the pressure and the idea loses power, so he writes the first draft before sharing a word.",144
+interpolation,"Filling the gaps between key poses automatically; convenient, but it can overpower the key poses and make an animation feel slow.",150
+Jog dial,A clicky scroll wheel Sakurai repeatedly proposed for controllers since the GameCube era so players could zip through menu choices.,169
+Kakimoji,Japanese comics technique of writing sound effects into the art; cited as inspiration for expressive text effects.,93
+Kantoku,"The Japanese word for a film director; whether a company calls the game director ""director"" or ""kantoku"" comes down to company culture.",234
+keeping rewards in sight,Showing how far the player has come and how far is left to the next reward.,23
+Key config,"An in-game button settings screen for reassigning actions; Sakurai wants one in every game, however simple.",197
+key frames,"The crucial poses of an animation, which should be reached quickly rather than buried under interpolated in-betweens.",150
+knockback multiplier,"A per-attack factor that adjusts launch distance independently of damage, so a strong move can launch little or a weak move far.",145
+Label,"The internal file-name class every action has in Smash, such as Attack11, AttackS4, AttackAirF or SpecialHi.",22
+Latest daily build,"The rule that every tester uses the newest build, because bugs found on the wrong version aren't helpful and can cause problems.",208
+Launch (Meteos),"Meteos' core action: matched blocks ignite and blast off into space instead of vanishing, which allows secondary ignitions and air docking.",74;86
+lead-in,"The pose between the button press and the attack, also called anticipation or windup; in Sakurai's games it often jumps to a big pose on the very first frame.",36;49
+Lighthouse (concept),His image for a game's concept: a beam you keep steering toward through the storm of development; change course and you get lost.,187
+LOD (level of detail),"Swapping in lower-polygon models as objects move away from the camera; labor-intensive, so only worth it when the gain justifies it.",44
+Loop point,"Where a looping track jumps back to; for Smash arrangements it can sit before or after the intro, with only a little looping within a match.",127
+Main melody,"The part of a song players remember and hum; he insists arrangements keep it, and defines it by what players heard in play rather than by music theory.",127;146
+Major and minor elements,"His split between what players actually see and what they do not, used to allocate performance and labor.",44
+Mandatory strategy,"A boss or encounter with one carefully crafted solution, which he calls 'almost like a tutorial'; a valid approach, set against free-form fights.",219
+Manpu,Comic symbols such as a bead of sweat or a vein mark that do not occur in real life but clearly signal an emotion.,93
+Market research,Studying trends in audiences; Sakurai warns it describes paths already taken and shouldn't generate new game ideas.,226
+Mastering up,"Finishing and submitting the final version of a game; Sakurai notes it often leaves the team feeling bruised rather than triumphant, and online updates have taken away its sense of closure.",87
+Mastering up (master-up),"Finishing the final version of a game; Sakurai notes it often feels more wounding than triumphant because of the cuts it took, so he thanks the staff.",87
+median line,The line where fighters stand in a side-view game; an attack whose range doesn't cross it is hard to land.,225
+Mirage,His description of game worlds from a creator's view: decoration without mass or collision until gameplay and programming give it substance.,152;205
+mountain climbing,"His analogy for difficulty: a good curve has peaks and flat stretches, not a constant incline.",105
+Mountain climbing (progression),"His analogy for difficulty curves: a constant incline is just work, so build peaks (bosses that need a strategy) and flat stretches (empty areas, places to rack up gains).",105
+Mr. Sakurai Presents,"Sakurai's presentation videos for Smash Ultimate DLC, in which he explains and plays each fighter himself; he counts them as marketing.",80;207;245;143
+Multiplicative (development and marketing),Sakurai's view that the success of development and of marketing are proportional to each other; also 'two wheels on one axle'.,80;245
+Mushi,"The beetles of Kouchuu Ouja Mushiking, whose arcade battles used rock-paper-scissors with each Mushi specializing in one shape.",92
+My Music,"Brawl's feature offering several songs per game world and letting players choose, because each generation has its own version of a series.",108
+N / Hi / S / Lw / Air,"Smash label modifiers for neutral, up, side, down and aerial.",22
+"no risk, no reward",The Space Invaders state where cannon and invader are far apart and neither attack can land.,6
+Omnibus,"Kirby Super Star's format: a collection of short, self-contained scenarios, each its own game with its own rules and theme, chosen from a cork board.",20;2
+oomph,Enough depth in a beginner game's controls that advanced players enjoy it too.,226
+Opinion board,An open board where any team member can post thoughts on how development is going; the director replies or routes items to teams.,60;123
+Opinion board (opinions board),"A board where any team member can post opinions, suggestions and requests about how development is going; the director replies or forwards items to the right team.",60;123
+opposing element,"The counter-force every motion needs to feel complete, such as falling for flight or slowdowns for speed.",65
+p/f (pixels per frame),The speed unit Sakurai used in specs for sprite games: how many pixels an object moves each frame.,84
+Parameters,"Tunable values kept separate from code so designers can adjust them; ""the code is the bones, and the parameters are the muscles.""",46;68
+Passing the baton,"A cooperative team relationship where someone who is stuck reports it early so the work can quickly be handed off, re-scoped or solved another way.",258
+peaks and valleys,"Distinct strengths and weaknesses for every option, which Sakurai protects when balancing.",247
+Pilot,"A small set of real pieces made at final quality to test whether a project can be done and to win partners; for the channel, three episodes (C03, C11, D03).",261
+Plan B,An alternative written into a proposal ('or we could do this') that leaves the decision to someone else. Sakurai says to ditch it entirely in proposals.,109;52;12
+Planner,"The role that turns the director's ideas into spec sheets detailed enough to program from, and also balances gameplay, manages teams and supervises testing; on his later games, planners tuned the parameters.",50;68;135
+Play tester vs. bug tester,Play testers keep playing to judge balance and tuning and report to planning; bug testers find and document reproducible bugs that a manager routes to the right team.,50;208;220
+"Playing what you want, how you want","The Smash philosophy that began with configurable rules: chaotic four-player battles with items, or tense one-on-one without.",27
+Pop,"An effect 'pops' when it has impact and contrast against any background, achieved with crisp shapes and dark elements rather than additive brightness alone.",16
+Pre-check audio,The version of a sound effect the sound team submits for his review before revision; for impacts it typically has a longer tail than the final.,167
+Presence,"How much an environment object means to the player, which comes from gameplay (cautious, high-death play makes players scrutinize everything) rather than from the art alone.",152
+PRESS START,"The annual omnibus game-music concert Sakurai presided over for ten years from 2006, with the performance kept at the center.",116;227
+press your luck,The RPG exploration choice between going deeper for better spoils and getting out while you still can.,15
+Previz,The stage after animatics where CG starts being woven in; Sakurai notes the line between the two is blurry.,163
+product value versus fun,"The trade-off in licensed games, where faithfulness to the source comes first and you never get a perfect score on all fronts.",188
+Project Presentations,"Sessions every few months where each team (graphics, sound, animation, effects, UI and so on) presents its work to everyone, so nobody feels like a cog in a machine.",43;88
+Pulse wave / duty cycle,"The Famicom's crisp, castle-parapet-shaped waveform that carried most of its music; changing its time ratio (duty cycle) changes the texture.",239
+push and pull,The back-and-forth of taking risks to get rewards; used interchangeably with game essence.,6;82;148
+reflex (CPU),The built-in reaction delay that stops Smash Ultimate CPUs from reacting faster than a human.,221
+Resolved status,"Where a fixed bug ticket goes instead of being deleted, in case the bug comes back.",208
+Retouch,"A quick paintover of a team member's image (about five to ten minutes, done with a mouse) that shows the change he wants; an example of direction, not final art.",90;165;224;253
+Reversion,When a person's edits vanish and a file returns to its pre-edit state; common despite file-management tools.,172
+Review Request,"The fixed email subject his team uses to ask for a review; requests are handled first come, first served and answered the same day.",177
+Rim lighting,"Lighting that looks like it shines from behind a character, emphasizing the outline; Smash Ultimate uses it for certain damage types and statuses such as invulnerability.",223
+risk and reward,Danger and opportunity as two sides of the same coin; they must be in close proximity and in the right amounts.,6;65;193
+Safe area,The part of a CRT image guaranteed to be visible (about 490 of 525 NTSC scanlines); developers assumed the edges were never seen.,252
+Screen interrupt,"The per-refresh signal his NES and SNES games used as their unit of time, which made PAL versions run at 5/6 speed.",5
+"screen shake patterns (large, medium, small, extra-small)","Smash's set of distinct shake patterns, not scaled copies: small is vertical only, medium adds horizontal, large shakes more.",103
+Screenshot of the Day,"A daily development screenshot shared with the team, which became his public daily screens on Twitter.",43;123;126;195
+Sense of scale,"Whether an object or effect reads at its intended size; CG objects tend to look like scale models, and big things looking too small is the usual failure.",63;174;201
+Smash Bros. DOJO!!,The players' guide website Sakurai built to explain Smash's push and pull when magazines ignored it; later updated every weekday for Brawl.,27;143;245;80
+smash input,A quick flick of the analog stick combined with a button to trigger a stronger attack (or a jump) in Super Smash Bros.,27
+Smash input / flick input ('Tap'),"Reading how fast the analog stick reaches its edge so a quick flick triggers a stronger attack, a jump or a dash.",27;154
+Sokuhou,"Japanese for 'news flash' or 'breaking news'; added to the Dojo's name for Melee, when it posted screenshots and news during development.",245
+Something to run from,From 'The Power of Suggestion': motivate yourself by imagining a deadline or threat closing in rather than a goal you'll reach eventually.,171
+Sound director,The audio lead who translates a director's notes into musical terms; Sakurai routes all arrangement feedback through Smash Ultimate's sound director.,127;107
+Soundscape,"All the layers of sound in a scene (wind in leaves, feet on dirt, clinking armor), each of which needs its own appropriate presence.",69
+Space Jump,"In Kirby Super Star, how a Helper who falls too far off-screen warps back to the lead player.",20
+Spec change,A mid-development change to the planned specification that scraps finished work. Sometimes unavoidable; the kind to avoid is one forced because the game isn't fun.,29
+Spec sheet (design document),The planner's or director's blueprint for how something should be built and programmed; for a Smash fighter it includes an animation list and 70-80 pages of posed-figure images.,14;50;68
+Spirits / World of Light,"Ultimate's replacement for Trophies and a Subspace-style story: characters earned in battles recreating their source games, gathered into one story mode.",160;151
+squash and stretch,"Scaling an object to flatten and elongate it for texture and life, always keeping its mass roughly the same.",121
+squeeze and release,"Applying heavy stress, then suddenly setting the player free; also used for charging during a risky drift and releasing for a speed burst.",9;59
+standby,The ground or aerial resting pose every other animation starts from; Sakurai nails these down first and doesn't change them.,36
+Start with the climax,"Open a game with a dramatic scene the player controls and explain how things got there later, instead of starting with backstory.",235
+strategy,"Game essence seen from the player side: how players manage risks to get rewards, or how they minimize losses and maximize gains, sometimes taking a bigger loss for an even bigger gain.",6;48
+"stress, relief, growth, progress","The four-step loop behind most games: an obstacle, its removal, a reward that strengthens you, and the next obstacle becoming easier.",71
+"Strong attack, light reverb","Sakurai's policy for impact sounds: reach a strong level almost instantly (a short attack peaking at the start) and keep the reverberation short, so hits register right away and don't bury the next one.",167
+Subspace Emissary,"Brawl's adventure mode with cutscenes, a story, a map and sticker power-ups, meant to give every character a moment in the spotlight; it needed its own movement parameters per fighter.",108;160;163
+super casual players,People who mostly play simple mobile games and may find even Kirby's Dream Land too hard; he suspects they are a very large opportunity.,148
+Supervision,"In Sakurai's words, ""charting the creative course"": reviewing nearly every part of the team's work and requesting changes, while the creators do the work of reaching release quality.",90;177;224
+Synchronous vs. asynchronous communication,Fully synchronous online play like Smash needs nearby players; asynchronous play like Mario Kart tolerates distance better.,108
+Talkback,The studio button a director uses to speak to voice actors in the booth; he usually directs Smash voice sessions this way.,107
+Targeting,"Being specific about who you sell to, usually by age, gender and tastes; Sakurai prefers targeting by experience level such as 'beginners'.",226;112
+Tempo / BPM,"Beats per minute: one clap per second is 60 BPM, two is 120. He treats tempo as a design decision for every scene.",25
+Ten people produce seven people's work,"His rule of thumb that management overhead means a ten-person team generally produces about seven people's worth of work, with more overhead as teams grow.",88
+The 'one' and the 'many',"Sakurai's framing for Smash for 3DS (a handheld, one player per screen) versus Wii U (a console gathering many players), used to give each version its own modes.",135
+The market is the best bug tester,"After launch, so many players run the game that even one-in-a-thousand bugs surface and get uploaded, far beyond what internal testing can reach.",231
+The original piece is always right,"His rule for arranging beloved game music: the song as heard when playing the original game is the authority, quirks and hardware-driven structure included.",146
+threading the needle,"The thrill of barely scraping past a hazard, such as flying under a bridge.",65
+Ticket,"A server-tracked task passed from person to person; whoever holds it is responsible for the work, and it carries a status and usually a deadline. Bugs are tickets too.",94;208
+tilt sensitivity,The lowest analog-stick tilt value that registers; it has to be configured for each console's stick.,19
+Tone and manner,"A game's overall atmosphere, which should decide how much color and what style the UI uses.",133
+too much is just right,"Sakurai's rule for attack animation and expressions: on a small screen, and with CG losing information, exaggeration is the correct amount.",28;91;166
+top node,A character's root position; changing stance on hit can move it and push the target out of the rest of a combo.,142
+total frames,"In Sakurai's attack specs, the time until the attack can be canceled; with the attack start frame it bounds the lead-in and follow-through.",36
+trial time,Space Harrier's opening period in which you can die as much as you want; many arcades left it on.,157
+Trimming,"The director's job of cutting excess and offloading 'heavy or flammable cargo' when plans slip, to get the project back on course.",258
+Trophy,"Melee's collectible figures with background info, which brought characters from across Nintendo's history in without making them playable; costly to produce.",40;151
+Trunk and branches,"Sakurai's tree metaphor for tastes: broad and shared when young (the trunk, the widest market), narrowing into niche branches with age.",112
+UI as a drawer,"Sakurai's image for menus: when a player pulls a menu open, things should be organized sensibly. How much is crammed into the drawers varies by game.",18
+Unbalanced direction,Sakurai's phrase for deliberately pushing a game in your own distinctive direction instead of letting others sway it toward the ordinary.,228
+Unit of measurement (for scores),"The idea that a score means more when expressed in a fitting unit, such as Brain Age, Crash Dollars or a power rating.",200
+"Up is down, and down is up","A leader's instructions flow downstream, but they are really requests made from the bottom up to the people who do the work, so nobody is above anyone.",260
+UV scrolling,Scrolling a texture's coordinates to animate a pattern; Smash's HUD uses upward-scrolling patterns behind fighter portraits to suggest burning spirit.,254
+variable character strength,"A parameter framework that changes character stats, used for party modes and customization but not level-playing-field matches.",135
+variable frame rate,"Drawing fewer frames when the processor can't keep up; not the same as slowdown, where the game itself runs slower.",5
+Variable frame rate vs. slowdown,Dropping frames means redrawing less often; slowdown means the game itself runs slower. They are not the same.,5
+Wall of Death (Nagoya Attack),"Space Invaders' endgame state where invaders at the bottom can't hit the cannon: ultimate risk, ultimate reward, probably a bug.",6
+Wandering director,Sakurai's description of himself: a freelance director with a near-staffless company (Sora Ltd.) who works on-site at partner studios one project at a time.,53;123
+weight of buttons,"How 'light' or 'heavy' the same physical button feels, set by on-screen response: movement speed, inertia, jump physics, lag and frame rate.",19
+Window hierarchy,"The nesting of menu windows and submenus; one of his key design points for every menu, along with visual guidance, element size, brightness and saturation, and typeface.",18
+wipe,"A full-screen transition; usually a plain fade, but better when themed to the game and kept at an acceptable speed.",246
+wobbly cannonballs,"The Kirby team's name for Shotzo's shots, which slide around in a six-frame loop as they fly instead of moving in a straight line.",255

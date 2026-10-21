@@ -1,0 +1,19 @@
+{"term": "standby", "meaning": "The ground or aerial resting pose every other animation starts from; Sakurai nails these down first and doesn't change them.", "episodes": "36"}
+{"term": "lead-in", "meaning": "The pose between the button press and the attack, also called anticipation or windup; in Sakurai's games it often jumps to a big pose on the very first frame.", "episodes": "36;49"}
+{"term": "attack (key pose)", "meaning": "The part of an attack animation when it can register as a hit, plus a little motion around it; hit stop freezes it into a firm, readable pose.", "episodes": "36;62"}
+{"term": "follow-through", "meaning": "The motion after the attack, when the character is briefly vulnerable (the recovery period); it takes the most screen time and determines the attack's impact.", "episodes": "36;77"}
+{"term": "attack start frame", "meaning": "One of the four values Sakurai specifies for each attack: the frame on which the attack begins to register.", "episodes": "36"}
+{"term": "animation list", "meaning": "Sakurai's written document listing every animation with a text description, its length and when the attack occurs; loops are marked 'Loop' or 'Any'.", "episodes": "14"}
+{"term": "too much is just right", "meaning": "Sakurai's rule for attack animation and expressions: on a small screen, and with CG losing information, exaggeration is the correct amount.", "episodes": "28;91;166"}
+{"term": "key frames", "meaning": "The crucial poses of an animation, which should be reached quickly rather than buried under interpolated in-betweens.", "episodes": "150"}
+{"term": "interpolation", "meaning": "Filling the gaps between key poses automatically; convenient, but it can overpower the key poses and make an animation feel slow.", "episodes": "150"}
+{"term": "animation blending", "meaning": "Combining two or more animations, such as blending a canceled attack into a walk; keep blends quick and snappy.", "episodes": "194"}
+{"term": "flipped animation", "meaning": "The Smash team's internal name for mirroring poses and movements when a character changes facing, so they face the camera from both sides.", "episodes": "181"}
+{"term": "blade trails", "meaning": "Sakurai's name for the effect left behind by a sword swing, usually a fading polygon ribbon; the swing animation often has to be adjusted for it to read.", "episodes": "179"}
+{"term": "bundodo", "meaning": "Japanese word for zooming an action figure around by hand; Sakurai suggests it as a way for animators to train an eye for poses.", "episodes": "106"}
+{"term": "top node", "meaning": "A character's root position; changing stance on hit can move it and push the target out of the rest of a combo.", "episodes": "142"}
+{"term": "median line", "meaning": "The line where fighters stand in a side-view game; an attack whose range doesn't cross it is hard to land.", "episodes": "225"}
+{"term": "squash and stretch", "meaning": "Scaling an object to flatten and elongate it for texture and life, always keeping its mass roughly the same.", "episodes": "121"}
+{"term": "wobbly cannonballs", "meaning": "The Kirby team's name for Shotzo's shots, which slide around in a six-frame loop as they fly instead of moving in a straight line.", "episodes": "255"}
+{"term": "diagonal grip", "meaning": "How a hand holds something swung with the forearm; a perpendicular grip makes characters look like action figures.", "episodes": "210"}
+{"term": "damage pose", "meaning": "The first frame of a damage animation, held by hit stop; in Smash it's an extreme pain pose nothing like standby.", "episodes": "142"}

@@ -1,0 +1,18 @@
+{"term": "UI as a drawer", "meaning": "Sakurai's image for menus: when a player pulls a menu open, things should be organized sensibly. How much is crammed into the drawers varies by game.", "episodes": "18"}
+{"term": "Drawers on top of drawers", "meaning": "Nested window hierarchies needed by feature-packed games like his own; he calls organizing them a constant struggle.", "episodes": "18"}
+{"term": "Window hierarchy", "meaning": "The nesting of menu windows and submenus; one of his key design points for every menu, along with visual guidance, element size, brightness and saturation, and typeface.", "episodes": "18"}
+{"term": "Help text", "meaning": "A short description of the highlighted menu item, often at the bottom of the screen; his rule is never to explain an item using its own name.", "episodes": "229"}
+{"term": "Key config", "meaning": "An in-game button settings screen for reassigning actions; Sakurai wants one in every game, however simple.", "episodes": "197"}
+{"term": "HUD (heads-up display)", "meaning": "Information overlaid on the play area, named after fighter-plane displays that let pilots read data without looking away; in games, everything placed at the forefront of the screen.", "episodes": "254"}
+{"term": "Safe area", "meaning": "The part of a CRT image guaranteed to be visible (about 490 of 525 NTSC scanlines); developers assumed the edges were never seen.", "episodes": "252"}
+{"term": "Tone and manner", "meaning": "A game's overall atmosphere, which should decide how much color and what style the UI uses.", "episodes": "133"}
+{"term": "UV scrolling", "meaning": "Scrolling a texture's coordinates to animate a pattern; Smash's HUD uses upward-scrolling patterns behind fighter portraits to suggest burning spirit.", "episodes": "254"}
+{"term": "Kakimoji", "meaning": "Japanese comics technique of writing sound effects into the art; cited as inspiration for expressive text effects.", "episodes": "93"}
+{"term": "Manpu", "meaning": "Comic symbols such as a bead of sweat or a vein mark that do not occur in real life but clearly signal an emotion.", "episodes": "93"}
+{"term": "Jog dial", "meaning": "A clicky scroll wheel Sakurai repeatedly proposed for controllers since the GameCube era so players could zip through menu choices.", "episodes": "169"}
+{"term": "Global Smash Power (GSP)", "meaning": "Smash Bros. Ultimate's inverse ranking: power measured against the global player count, so higher is better; it hides the world number one and filters invalid data.", "episodes": "170;200"}
+{"term": "Wipe", "meaning": "A full-screen transition; a theme-matched wipe at an acceptable speed is better than a plain fade.", "episodes": "246"}
+{"term": "De facto standards", "meaning": "Control conventions a genre has settled on, such as shared FPS layouts; using them lets you skip explanations players already know.", "episodes": "175"}
+{"term": "Handshake between human and computer", "meaning": "His phrase for the controls and conventions that connect player and game; standard controls make it a little warmer.", "episodes": "175"}
+{"term": "Unit of measurement (for scores)", "meaning": "The idea that a score means more when expressed in a fitting unit, such as Brain Age, Crash Dollars or a power rating.", "episodes": "200"}
+{"term": "Checklist", "meaning": "Kirby Air Ride's achievement grid, predating console trophies; clearing a square reveals the conditions for its neighbors.", "episodes": "59"}

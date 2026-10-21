@@ -1,0 +1,22 @@
+{"term": "hit stop", "meaning": "A brief stop of both attacker and target when an attack lands; whether it's there completely changes how heavy a hit feels. In Smash it always includes some shake.", "episodes": "3;47"}
+{"term": "boss stop", "meaning": "Sakurai's own coinage for the stop when a boss is defeated: the screen stops and flashes for a moment, used since Kirby's Adventure.", "episodes": "3"}
+{"term": "Finish Zoom", "meaning": "Smash Ultimate's zoomed stop on a match-deciding hit; Sakurai calls it an extension of stop effects, closer to boss stop.", "episodes": "3"}
+{"term": "cancel frames", "meaning": "Frames late in an attack's follow-through during which the player can move, jump or attack again before the animation returns to standby; added to Smash after Melee.", "episodes": "36;77;194"}
+{"term": "total frames", "meaning": "In Sakurai's attack specs, the time until the attack can be canceled; with the attack start frame it bounds the lead-in and follow-through.", "episodes": "36"}
+{"term": "flick input", "meaning": "Sakurai's name for reading how fast the analog stick reaches the edge of its range to trigger a dash (localized as 'Tap' in the N64 Super Smash Bros.).", "episodes": "154"}
+{"term": "smash input", "meaning": "A quick flick of the analog stick combined with a button to trigger a stronger attack (or a jump) in Super Smash Bros.", "episodes": "27"}
+{"term": "weight of buttons", "meaning": "How 'light' or 'heavy' the same physical button feels, set by on-screen response: movement speed, inertia, jump physics, lag and frame rate.", "episodes": "19"}
+{"term": "center point", "meaning": "The usually invisible point a 3D camera looks at. Sakurai's advice: don't anchor it to the character, especially on the Y axis.", "episodes": "61;103"}
+{"term": "tilt sensitivity", "meaning": "The lowest analog-stick tilt value that registers; it has to be configured for each console's stick.", "episodes": "19"}
+{"term": "input density", "meaning": "How many inputs per second the game demands; Brawl lowered speed partly because the higher the input density, the more online frame skips stood out.", "episodes": "108"}
+{"term": "display latency", "meaning": "Delay added by a screen's picture post-processing, bypassed by Game Mode or Low Latency Mode; distinct from response time, the time a pixel takes to change color. At 60 fps, 16.67 ms is one frame.", "episodes": "8"}
+{"term": "variable frame rate", "meaning": "Drawing fewer frames when the processor can't keep up; not the same as slowdown, where the game itself runs slower.", "episodes": "5"}
+{"term": "p/f (pixels per frame)", "meaning": "The speed unit Sakurai used in specs for sprite games: how many pixels an object moves each frame.", "episodes": "84"}
+{"term": "1-and-2-and", "meaning": "Sakurai's frame-counting method: clap seconds with an in-between beat, giving about 30 frames per beat and 15 per half beat at 60 fps.", "episodes": "76"}
+{"term": "screen shake patterns (large, medium, small, extra-small)", "meaning": "Smash's set of distinct shake patterns, not scaled copies: small is vertical only, medium adds horizontal, large shakes more.", "episodes": "103"}
+{"term": "wipe", "meaning": "A full-screen transition; usually a plain fade, but better when themed to the game and kept at an acceptable speed.", "episodes": "246"}
+{"term": "fixed knockback", "meaning": "A knockback value that ignores damage so the target always reacts the same way; used on the early hits of multi-hit moves like Mario's Super Jump Punch.", "episodes": "145"}
+{"term": "guaranteed minimum knockback", "meaning": "A per-attack minimum launch so even a barely damaged target reacts; paired with knockback scaling to keep it from inflating launches.", "episodes": "145"}
+{"term": "knockback multiplier", "meaning": "A per-attack factor that adjusts launch distance independently of damage, so a strong move can launch little or a weak move far.", "episodes": "145"}
+{"term": "Helper system / Space Jump", "meaning": "Kirby Super Star's co-op solution: the camera follows the lead player, and a supporting Helper who drifts too far off screen 'Space Jumps' back.", "episodes": "20"}
+{"term": "de facto standards", "meaning": "Genre control conventions (such as FPS fire and grenade buttons) that Sakurai says you're better off using, because they warm 'the handshake between human and computer'.", "episodes": "175"}

@@ -1,0 +1,18 @@
+{
+  "name": "sakurai-game-design",
+  "owner": {
+    "name": "flossbud"
+  },
+  "metadata": {
+    "description": "Masahiro Sakurai's game design knowledge as a Claude Code plugin",
+    "version": "1.0.0"
+  },
+  "plugins": [
+    {
+      "name": "sakurai-game-design",
+      "source": "./",
+      "description": "Game design principles, techniques and review lenses distilled from Masahiro Sakurai on Creating Games",
+      "version": "1.0.0"
+    }
+  ]
+}
