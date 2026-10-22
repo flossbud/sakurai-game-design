@@ -57,4 +57,4 @@ To rebuild after editing data: `python3 tools/build_data.py data && python3 tool
 
 ## Rights
 
-All content derives from *Masahiro Sakurai on Creating Games* by Sora Ltd. The transcripts are the official English subtitles, captured for private study. The notes, principles and chapters are paraphrases with short attributed quotes. **Keep this repository private.** Don't publish the transcripts.
+All content derives from *Masahiro Sakurai on Creating Games* by Sora Ltd. The transcripts are the official English subtitles, captured for private study. The notes, principles and chapters are paraphrases with short attributed quotes. 
